@@ -71,5 +71,4 @@ If 20% of fiber optic customers adopt bundled support services and switch to ann
 
 ## 👩‍💻 Author
 **Pooja** — Aspiring Data Analyst | IBM Certified | Skilled in Excel, SQL, and Python  
-📍 New Delhi, India  
-
+📍 New Delhi, India 
